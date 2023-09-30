@@ -15,6 +15,12 @@ Support for macOS Sonoma (14.0).
 | OS Disk (Nvme/Sata3) | WD SN750                                                                                    |
 | Display              | 1 x 1920x1080 (Dell P2319h) @ 60Hz                                                          |
 
+# Compatible SMBIOS
+
+| SMBIOS     | Description                                                   |
+| :--------- | :------------------------------------------------------------ |
+| iMacPro1,1 | Because GPU integrated in 12th gen without support for Apple. |
+
 ![Sonoma](./doc/images/sonoma.png)
 
 ## Reference
